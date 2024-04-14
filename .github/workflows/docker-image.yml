@@ -44,4 +44,4 @@ jobs:
 
     # Step 7: Push Docker image to Docker Hub
     - name: Push Docker image to Docker Hub
-      run: sudo docker push benakiva/appsync_python:latest
+      run: sudo docker push benakiva/appsync_python
